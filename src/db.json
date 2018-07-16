@@ -1,0 +1,92 @@
+ {
+  "parentCompany": [
+    {
+      "childrenCompanyIDs": [
+        "5b4bed0338462612f8bcf059",
+        "5b4bed0328462612f8bcf059"
+      ],
+      "_id": "5b4bf1bb7f702e2bb45fc590",
+      "companyName": "OCTARION111",
+      "earnings": 31233111,
+      "__v": 0
+    },
+    {
+      "childrenCompanyIDs": [],
+      "_id": "5b4bfc8f0166d12460dfef6e",
+      "companyName": "OCTARION222",
+      "earnings": 4444444,
+      "parentCompanyID": null,
+      "__v": 0
+    },
+    {
+      "childrenCompanyIDs": [],
+      "_id": "5b4bfcb67a71fe26e884d446",
+      "companyName": "OCTARION333",
+      "earnings": 4444123444,
+      "parentCompanyID": null,
+      "__v": 0
+    },
+    {
+      "childrenCompanyIDs": [
+        "5b4bed0318462612f8bcf059",
+        "5b4bed0128462612f8bcf059",
+        "5b4bed0118462612f8bcf059"
+      ],
+      "_id": "5b4bfd0958dbcd1860e3b489",
+      "companyName": "OCTARION444",
+      "earnings": 444412433444,
+      "parentCompanyID": null,
+      "__v": 0
+    },
+    {
+      "childrenCompanyIDs": [],
+      "_id": "5b4c7aa9d09c4a30f42004ad",
+      "companyName": "OCTARION555",
+      "earnings": 333111,
+      "parentCompanyID": null,
+      "__v": 0
+    }
+  ],
+  "childCompany": [
+    {
+      "childrenCompanyIDs": [],
+      "_id": "5b4bed0338462612f8bcf059",
+      "companyName": "req.body.companyNa2m1e",
+      "earnings": 123,
+      "parentCompanyID": "5b4bf1bb7f702e2bb45fc590",
+      "__v": 0
+    },
+    {
+      "childrenCompanyIDs": [],
+      "_id": "5b4bed0328462612f8bcf059",
+      "companyName": "req.body.companyNa2m1e",
+      "earnings": 123,
+      "parentCompanyID": "5b4bf1bb7f702e2bb45fc590",
+      "__v": 0
+    },
+    {
+      "childrenCompanyIDs": [],
+      "_id": "5b4bed0318462612f8bcf059",
+      "companyName": "req.body.companyNa2m1e",
+      "earnings": 123,
+      "parentCompanyID": "5b4bfd0958dbcd1860e3b489",
+      "__v": 0
+    },
+    {
+      "childrenCompanyIDs": [],
+      "_id": "5b4bed0128462612f8bcf059",
+      "companyName": "req.body.companyNa2m1e",
+      "earnings": 123,
+      "parentCompanyID": "5b4bfd0958dbcd1860e3b489",
+      "__v": 0
+    },
+    {
+      "childrenCompanyIDs": [],
+      "_id": "5b4bed0118462612f8bcf059",
+      "companyName": "req.body.companyNa2m1e",
+      "earnings": 123,
+      "parentCompanyID": "5b4bfd0958dbcd1860e3b489",
+      "__v": 0
+    }
+  ]
+}
